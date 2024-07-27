@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EngApoSaad
-- 👀 I’m interested in analysis
-- 🌱 I’m currently learning how to be data analyst
-- 💞️ I’m looking to collaborate on analysing and get result
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning how to be backend developer
+- 💞️ I’m looking to collaborate on Web development and get result
 - 📫 How to reach me ...
 
 <!---
